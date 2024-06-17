@@ -1,0 +1,45 @@
+body {
+    background-color: #f2f2f2; /* color de fondo uniforme */
+    font-family: Arial, sans-serif; /* fuente predeterminada */
+    margin: 0; /* quitar margen por defecto */
+    padding: 0; /* quitar padding por defecto */
+  }
+  .exit{
+    text-decoration: none;
+    text-decoration-line: none;
+    align-items: right;
+    margin: 2px;
+    
+  }
+  .exit:hover{
+    color: aqua;
+  }
+  .susi {
+    padding: 40px; /* espacio interior */
+    text-align: center; /* texto centrado */
+  }
+  
+  .yo {
+    max-width: 800px; /* ancho máximo del contenido */
+    margin: 0 auto; /* centrar contenido */
+    padding: 20px; /* espacio interior */
+    border: 1px solid #ddd; /* borde gris claro */
+    border-radius: 10px; /* borde redondeado */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* sombra suave */
+  }
+  
+  .yo h1 {
+    font-size: 36px; /* título grande */
+    font-weight: bold; /* título en negrita */
+    margin-bottom: 20px; /* espacio entre título y texto */
+  }
+  
+  .yo p {
+    font-size: 18px; /* texto grande */
+    line-height: 1.5; /* espacio entre líneas */
+    margin-bottom: 20px; /* espacio entre párrafos */
+  }
+  
+  .yo p:last-child {
+    margin-bottom: 0; /* quitar espacio entre último párrafo y borde */
+  }

@@ -1,0 +1,30 @@
+.servicios {
+    background-color: #f5f5f5; /* fondo blanco */
+    padding: 40px; /* espacio interior */
+    text-align: center; /* texto centrado */
+    border-bottom: 1px solid #ddd; /* borde inferior gris claro */
+  }
+  
+  .servicios h2 {
+    font-size: 36px; /* título grande */
+    font-weight: bold; /* título en negrita */
+    margin-bottom: 20px; /* espacio entre título y texto */
+  }
+  
+  .servicios ul {
+    list-style: none; /* quitar viñetas */
+    padding: 0; /* quitar padding por defecto */
+    margin: 0; /* quitar margen por defecto */
+  }
+  
+  .servicios li {
+    font-size: 18px; /* texto grande */
+    line-height: 1.5; /* espacio entre líneas */
+    margin-bottom: 10px; /* espacio entre párrafos */
+  }
+  
+  .servicios p {
+    font-size: 18px; /* texto grande */
+    line-height: 1.5; /* espacio entre líneas */
+    margin-bottom: 20px; /* espacio entre párrafos */
+  }
